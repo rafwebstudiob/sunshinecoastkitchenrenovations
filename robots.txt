@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sunshinecoastkitchenrenovations.com.au/sitemap.xml
